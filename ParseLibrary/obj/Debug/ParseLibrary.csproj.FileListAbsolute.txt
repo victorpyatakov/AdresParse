@@ -1,0 +1,10 @@
+D:\temp\AdressParse\ParseLibrary\bin\Debug\ParseLibrary.dll
+D:\temp\AdressParse\ParseLibrary\bin\Debug\ParseLibrary.pdb
+D:\temp\AdressParse\ParseLibrary\obj\Debug\ParseLibrary.dll
+D:\temp\AdressParse\ParseLibrary\obj\Debug\ParseLibrary.pdb
+D:\temp\AdressParse\ParseLibrary\obj\Debug\ParseLibrary.csprojAssemblyReference.cache
+D:\Projects\AdressParse\ParseLibrary\bin\Debug\ParseLibrary.dll
+D:\Projects\AdressParse\ParseLibrary\bin\Debug\ParseLibrary.pdb
+D:\Projects\AdressParse\ParseLibrary\obj\Debug\ParseLibrary.csprojAssemblyReference.cache
+D:\Projects\AdressParse\ParseLibrary\obj\Debug\ParseLibrary.dll
+D:\Projects\AdressParse\ParseLibrary\obj\Debug\ParseLibrary.pdb
